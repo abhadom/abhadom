@@ -1,8 +1,9 @@
 ### Olá, aqui é a Gisele!
 
-Slow progress is still progress. <br>
-brazil 🇧🇷
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF60A9&lines=Destroy+what+destroys+you;Protect+your+peace)](https://git.io/typing-svg)
 
+
+##
 <br>
 
 <div align="center">
@@ -17,6 +18,7 @@ brazil 🇧🇷
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="right" alt="icon-cute" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/4KnEQTcTbVKSpuA231/giphy.gif">
   </div>
 
