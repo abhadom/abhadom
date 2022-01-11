@@ -1,7 +1,11 @@
-### Olá, aqui é a Gisele!
+
+<img src="https://raw.githubusercontent.com/abhadom/abhadom/main/header.png"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF60A9&lines=Destroy+what+destroys+you;Protect+your+peace)](https://git.io/typing-svg)
 
+
+
+:sparkles: Sou estudante Full-Stack na Recode <br>
 
 ##
 <br>
