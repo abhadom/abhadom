@@ -1,10 +1,10 @@
 
-<img src="https://raw.githubusercontent.com/abhadom/abhadom/main/header.png"/>
+<!--<img src="https://raw.githubusercontent.com/abhadom/abhadom/main/header.png"/>-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF60A9&lines=Destroy+what+destroys+you;Protect+your+peace)](https://git.io/typing-svg)
 
 
-
+:sparkles: Olá, aqui é a Gisele <br>
 :sparkles: Sou estudante Full-Stack na Recode <br>
 
 ##
