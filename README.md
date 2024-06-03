@@ -5,7 +5,7 @@
 
 
 :sparkles: Olá, aqui é a Gisele <br>
-:sparkles: Sou estudante Full-Stack na Recode <br>
+:sparkles: Sou estudante autodidata, assisto resenhas de filmes cult, metalhead <br>
 
 ##
 <br>
@@ -23,7 +23,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="right" alt="icon-cute" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/4KnEQTcTbVKSpuA231/giphy.gif">
+  <!-- <img align="right" alt="icon-cute" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/4KnEQTcTbVKSpuA231/giphy.gif"> -->
   </div>
 
 ##
@@ -32,7 +32,7 @@
  	<a href="https://twitter.com/abhadonn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
     <br>
     
-![](https://github.com/abhadom/abhadom/blob/output/github-contribution-grid-snake.svg)
+<!-- ![](https://github.com/abhadom/abhadom/blob/output/github-contribution-grid-snake.svg) -->
     
   </div>
   
